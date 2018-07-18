@@ -9,6 +9,10 @@ Here are a few resources to help you right off the bat:
 * Markdown cheat sheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet 
 * Emoji cheat sheet: http://www.webpagefx.com/tools/emoji-cheat-sheet/
 
+This part of the document is kind of superfluous. Actually it doesn't have any point except to make changes to a perfectly fun document. 
+
+##I also want to check if this changes the FONT!
+
 ### Go ahead and fork this so you can add a copy to your own account.
 
 * Fork this repo
