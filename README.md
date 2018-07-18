@@ -11,7 +11,7 @@ Here are a few resources to help you right off the bat:
 
 This part of the document is kind of superfluous. Actually it doesn't have any point except to make changes to a perfectly fun document. 
 
-### I also want to check if this changes the FONT!
+# I also want to check if this changes the FONT!
 
 ### Go ahead and fork this so you can add a copy to your own account.
 
